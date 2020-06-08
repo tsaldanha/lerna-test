@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@tsaldanha/my-design-system-form": "^1.1.1",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
