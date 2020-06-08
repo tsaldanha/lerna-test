@@ -1,7 +1,0 @@
-54 error Error: Command failed: git tag @tsaldanha/my-design-system-form@1.0.3 -m @tsaldanha/my-design-system-form@1.0.3
-54 error fatal: tag '@tsaldanha/my-design-system-form@1.0.3' already exists
-54 error
-54 error     at makeError (/Users/tsaldanha/Projects/testes/my-design-system/node_modules/execa/index.js:174:9)
-54 error     at /Users/tsaldanha/Projects/testes/my-design-system/node_modules/execa/index.js:278:16
-54 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-54 error     at async Promise.all (index 2)
