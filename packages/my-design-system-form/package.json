@@ -1,9 +1,9 @@
 {
   "name": "@tsaldanha/my-design-system-form",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@tsaldanha/my-design-system-button": "^1.0.0"
+    "@tsaldanha/my-design-system-button": "^1.0.1-alpha.0"
   }
 }
