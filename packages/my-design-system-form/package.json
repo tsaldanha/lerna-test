@@ -1,13 +1,13 @@
 {
   "name": "@tsaldanha/my-design-system-form",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@tsaldanha/my-design-system-button": "^1.0.1"
+    "@tsaldanha/my-design-system-button": "^1.1.0"
   },
   "gitHead": "ae5a083b2b24582b2c623ae0d691ad6b6023cd89"
 }
