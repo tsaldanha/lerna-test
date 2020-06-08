@@ -8,6 +8,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@tsaldanha/my-design-system-form": "^1.1.0"
+    "@tsaldanha/my-design-system-form": "^1.1.0",
+    "react": "^16.13.1"
   }
 }

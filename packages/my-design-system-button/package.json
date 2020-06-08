@@ -6,5 +6,8 @@
   "gitHead": "0087ba4a787b44cd43fdb5728beb60191e570626",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
   }
 }

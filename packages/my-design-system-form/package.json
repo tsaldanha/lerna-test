@@ -7,7 +7,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@tsaldanha/my-design-system-button": "^1.1.0"
+    "@tsaldanha/my-design-system-button": "^1.1.0",
+    "react": "^16.13.1"
   },
   "gitHead": "ae5a083b2b24582b2c623ae0d691ad6b6023cd89"
 }
