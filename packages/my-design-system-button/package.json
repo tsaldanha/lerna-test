@@ -2,5 +2,6 @@
   "name": "@tsaldanha/my-design-system-button",
   "version": "1.0.1-alpha.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "0fae10ec5ad5d554baf312a75a7bdc1f5568876f"
 }
