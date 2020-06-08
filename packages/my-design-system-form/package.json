@@ -7,7 +7,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@tsaldanha/my-design-system-button": "^1.1.2",
     "date-fns": "^2.14.0",
     "jest": "^26.0.1",
     "react": "^16.13.1",
