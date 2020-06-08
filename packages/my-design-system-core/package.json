@@ -1,6 +1,6 @@
 {
   "name": "@tsaldanha/my-design-system-core",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "0087ba4a787b44cd43fdb5728beb60191e570626",
@@ -8,6 +8,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@tsaldanha/my-design-system-form": "^1.0.4"
+    "@tsaldanha/my-design-system-form": "^1.0.0"
   }
 }
